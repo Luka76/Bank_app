@@ -40,7 +40,7 @@ const Business = () => {
           of credit cards on the market.
         </p>
 
-        <Button styles="mt-10" />
+        <Button styles="mt-10 mb-10" />
       </div>
 
       <div className={`${layout.sectionInfo} flex-col`}>
